@@ -4,29 +4,9 @@
       "default-azure-auth": {
         "connectionString": [
           {
-            "name": "run_chat.py",
-            "type": "code",
-            "path": "/codeSample.py"
-          },
-          {
-            "name": "INSTRUCTIONS.md",
-            "type": "readme",
-            "path": "/README-noazd.md"
-          },
-          {
-            "name": "requirements.txt",
-            "type": "dependencies",
-            "path": "/requirements.txt"
-          },
-          {
             "name": ".env",
             "type": "env",
             "path": "/.env"
-          },
-          {
-            "name": "install.sh",
-            "type": "install",
-            "path": "/install.sh"
           },
           {
             "name": ".gitignore",
@@ -36,29 +16,9 @@
         ],
         "endpoint": [
           {
-            "name": "run_chat.py",
-            "type": "code",
-            "path": "/endpointCodeSample.py"
-          },
-          {
-            "name": "INSTRUCTIONS.md",
-            "type": "readme",
-            "path": "/README.md"
-          },
-          {
-            "name": "requirements.txt",
-            "type": "dependencies",
-            "path": "/endpoint-requirements.txt"
-          },
-          {
             "name": ".env",
             "type": "env",
             "path": "/.env"
-          },
-          {
-            "name": "install.sh",
-            "type": "install",
-            "path": "/install.sh"
           },
           {
             "name": ".gitignore",
