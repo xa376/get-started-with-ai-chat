@@ -3,10 +3,18 @@
     "python": {
       "default-azure-auth": {
         "connectionString": [
-         
+          {
+            "name": "install.sh",
+            "type": "install",
+            "path": "/install.sh"
+          }
         ],
         "endpoint": [
-          
+          {
+            "name": "install.sh",
+            "type": "install",
+            "path": "/install.sh"
+          }
         ]
       }
     }
