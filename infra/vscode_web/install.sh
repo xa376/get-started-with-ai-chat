@@ -1,0 +1,1 @@
+azd init -t Azure-Samples/get-started-with-ai-chat
