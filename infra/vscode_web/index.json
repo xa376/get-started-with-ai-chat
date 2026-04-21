@@ -7,6 +7,11 @@
             "name": "install.sh",
             "type": "install",
             "path": "/install.sh"
+          },
+          {
+            "name": ".env",
+            "type": "env",
+            "path": "/.env"
           }
         ],
         "endpoint": [
@@ -14,6 +19,11 @@
             "name": "install.sh",
             "type": "install",
             "path": "/install.sh"
+          },
+          {
+            "name": ".env",
+            "type": "env",
+            "path": "/.env"
           }
         ]
       }
